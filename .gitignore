@@ -22,7 +22,7 @@ project.lock.json
 appsettings.json
 local.settings.json
 
-node_modules
+#node_modules — need this
 dist
 
 # Local python packages
