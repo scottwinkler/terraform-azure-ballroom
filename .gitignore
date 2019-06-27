@@ -1,9 +1,9 @@
-bin
-obj
+#bin
+#obj
 csx
 .vs
 edge
-Publish
+#Publish
 
 *.user
 *.suo
@@ -11,7 +11,7 @@ Publish
 *.Cache
 project.lock.json
 
-/packages
+#/packages
 /TestResults
 
 /tools/NuGet.exe
@@ -23,7 +23,7 @@ appsettings.json
 local.settings.json
 
 #node_modules — need this
-dist
+#dist
 
 # Local python packages
 .python_packages/
